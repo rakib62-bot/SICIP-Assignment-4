@@ -1,7 +1,7 @@
 # Bangla Handwritten Word Recognition
 
-**Student name:** [ENTER YOUR FULL NAME]  
-**Student ID:** [ENTER YOUR STUDENT ID]  
+**Student name:** RAKIB HASAN 
+**Student ID:** 1000129213 
 **Course:** ML + DL — Assignment 04  
 **Institution:** BRAC University
 
